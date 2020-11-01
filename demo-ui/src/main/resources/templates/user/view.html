@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <meta charset="UTF-8">
+        <title>Demo UI - User List</title>
+    </head>
+    <body>
+        <h2>User View</h2>
+        <span th:text="#{user.table.header.id} + ':'">ID</span>&nbsp;<span th:text="${user.id}"></span><br>
+        <span th:text="#{user.table.header.name} + ':'">Name</span>&nbsp;<span th:text="${user.name}"></span><br>
+        <span th:text="#{user.table.header.birthday} + ':'">Birthday</span>&nbsp;<span th:text="${user.birthday}"></span><br>
+    </body>
+</html>

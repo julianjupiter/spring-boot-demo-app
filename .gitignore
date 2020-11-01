@@ -1,0 +1,73 @@
+demo-api/HELP.md
+target/
+!demo-api/.mvn/wrapper/maven-wrapper.jar
+!demo-api/**/src/main/**/target/
+!demo-api/**/src/test/**/target/
+
+### STS ###
+demo-api/.apt_generated
+demo-api/.classpath
+demo-api/.factorypath
+demo-api/.project
+demo-api/.settings
+demo-api/.springBeans
+demo-api/.sts4-cache
+
+### IntelliJ IDEA ###
+demo-api/.idea
+demo-api/*.iws
+demo-api/*.iml
+demo-api/*.ipr
+
+### NetBeans ###
+/demo-api/nbproject/private/
+/demo-api/nbbuild/
+/demo-api/dist/
+/demo-api/nbdist/
+/demo-api/.nb-gradle/
+demo-api/build/
+!demo-api/**/src/main/**/build/
+!demo-api/**/src/test/**/build/
+
+### VS Code ###
+demo-api/.vscode/
+
+demo-api/node_modules/
+demo-api/package-lock.json
+
+demo-ui/HELP.md
+target/
+!demo-ui/.mvn/wrapper/maven-wrapper.jar
+!demo-ui/**/src/main/**/target/
+!demo-ui/**/src/test/**/target/
+
+### STS ###
+demo-ui/.apt_generated
+demo-ui/.classpath
+demo-ui/.factorypath
+demo-ui/.project
+demo-ui/.settings
+demo-ui/.springBeans
+demo-ui/.sts4-cache
+
+### IntelliJ IDEA ###
+demo-ui/.idea
+demo-ui/*.iws
+demo-ui/*.iml
+demo-ui/*.ipr
+
+### NetBeans ###
+/demo-ui/nbproject/private/
+/demo-ui/nbbuild/
+/demo-ui/dist/
+/demo-ui/nbdist/
+/demo-ui/.nb-gradle/
+demo-ui/build/
+!demo-ui/**/src/main/**/build/
+!demo-ui/**/src/test/**/build/
+
+### VS Code ###
+demo-ui/.vscode/
+
+demo-ui/node_modules/
+demo-ui/package-lock.json
